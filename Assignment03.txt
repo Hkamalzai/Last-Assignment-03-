@@ -1,4 +1,4 @@
- // New Project Assignment03 by Mohammad Homayoun Kamalzai
+ // Last Project Assignment03
 public class Assignment03 {
 
 	public static void main(String[] args) {
